@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949293070329",
+    "project_id": "basketbuddy-cbbf0",
+    "storage_bucket": "basketbuddy-cbbf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949293070329:android:f64ebddfac143b56982f28",
+        "android_client_info": {
+          "package_name": "com.example.basket_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTmAFVgRNlbrBWQzOFH1AZWC3ogGfqxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
